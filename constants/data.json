@@ -1,0 +1,114 @@
+{
+  "0": {
+    "title": "Stats preview card component",
+    "image": "/img/stats-preview-card-component.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/stats-preview-card-component-main",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/stats-preview-card-component-main/",
+    "tag": "newbie"
+  },
+  "1": {
+    "title": "Nft preview card component",
+    "image": "/img/nft-preview-card-component.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/nft-preview-card-component-main",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/nft-preview-card-component-main/",
+    "tag": "newbie"
+  },
+  "2": {
+    "title": "3 column preview card component",
+    "image": "/img/3-column-preview-card-component-main.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/3-column-preview-card-component-main",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/3-column-preview-card-component-main/",
+    "tag": "newbie"
+  },
+  "3": {
+    "title": "Article preview component",
+    "image": "/img/article-preview-component.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/article-preview-component-master",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/article-preview-component-master/",
+    "tag": "newbie"
+  },
+  "4": {
+    "title": "Order summary component main",
+    "image": "/img/order-summary-component.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/order-summary-component",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/order-summary-component-main/",
+    "tag": "newbie"
+  },
+  "5": {
+    "title": "Base apparel coming soon",
+    "image": "/img/base-apparel-coming-soon-master.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/base-apparel-coming-soon-master",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/base-apparel-coming-soon-master/",
+    "tag": "newbie"
+  },
+  "6": {
+    "title": "Huddle landing page with single introductory",
+    "image": "/img/huddle-landing-page-with-single-introductory-section.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/huddle-landing-page-with-single-introductory-section-master",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/huddle-landing-page-with-single-introductory-section-master/",
+    "tag": "newbie"
+  },
+  "7": {
+    "title": "Intro component with component",
+    "image": "/img/intro-component-with-signup-form-master.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/intro-component-with-signup-form-master",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/intro-component-with-signup-form-master/",
+    "tag": "newbie"
+  },
+  "8": {
+    "title": "Faq according card",
+    "image": "/img/faq-accordion-card-main.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/faq-accordion-card-main",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/faq-accordion-card-main/",
+    "tag": "newbie"
+  },
+  "9": {
+    "title": "Ping single column coming soon page",
+    "image": "/img/ping-coming-soon-page-master.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/ping-coming-soon-page-master",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor//ping-coming-soon-page-master/",
+    "tag": "newbie"
+  },
+  "10": {
+    "title": "Testimonials grid section",
+    "image": "/img/testimonials-grid-section-main.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/testimonials-grid-section-main",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/testimonials-grid-section-main/",
+    "tag": "junior"
+  },
+  "11": {
+    "title": "Sunnyside agency landing page",
+    "image": "/img/sunnyside-agency-landing-page-main.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/sunnyside-agency-landing-page-main",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/blogr-landing-page-main/",
+    "tag": "junior"
+  },
+  "12": {
+    "title": "Blogr landing page",
+    "image": "/img/blogr-landing-page-main.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/blogr-landing-page-main",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/tip-calculator-app-main/",
+    "tag": "junior"
+  },
+  "13": {
+    "title": "Tip calculator app",
+    "image": "/img/tip-calculator-app-main.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/tip-calculator-app-main",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/3-column-preview-card-component-main/",
+    "tag": "junior"
+  },
+  "14": {
+    "title": "Social media dashboard with theme switcher",
+    "image": "/img/social-media-dashboard-with-theme-switcher.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/social-media-dashboard-with-theme-switcher-master",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/social-media-dashboard-with-theme-switcher-master/",
+    "tag": "junior"
+  },
+  "15": {
+    "title": "Crowdfunding product page",
+    "image": "/img/crowdfunding-product-page-main.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/crowdfunding-product-page-main",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/crowdfunding-product-page-main/",
+    "tag": "junior"
+  }
+}
