@@ -1,5 +1,7 @@
 {
   "name": "frontmentor",
+  "homepage": "https://mooenz.github.io/frontmentor",
+  "author": "Jose Manuel Montaño Saenz",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +13,9 @@
   "dependencies": {
     "next": "12.1.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.3",
+    "babel-plugin-styled-components": "^2.0.2"
   },
   "devDependencies": {
     "eslint": "8.10.0",
