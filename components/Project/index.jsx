@@ -1,6 +1,5 @@
-import Image from 'next/image';
-
 //styles
+
 import {
   Article,
   Container,
