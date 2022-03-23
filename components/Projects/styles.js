@@ -16,6 +16,6 @@ export const Projects = styled.div`
 
   @media screen and (min-width: 1200px) {
     grid-template-columns: repeat(3, auto);
-    gap: 40px;
+    gap: 30px;
   }
 `;
