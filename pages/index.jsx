@@ -5,7 +5,7 @@ import Filter from '../components/Filter';
 import Projects from '../components/Projects';
 
 //Filter
-import UseFilter from '../hooks/UseFilter';
+import UseFilter from '../context/FilterContext';
 
 //Styles
 import {
