@@ -80,28 +80,28 @@
     "title": "Sunnyside agency landing page",
     "image": "/img/sunnyside-agency-landing-page-main.webp",
     "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/sunnyside-agency-landing-page-main",
-    "live": "https://mooenz.github.io/portfolio-frontendmentor/blogr-landing-page-main/",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/sunnyside-agency-landing-page-main/",
     "tag": "junior"
   },
   "12": {
     "title": "Blogr landing page",
     "image": "/img/blogr-landing-page-main.webp",
     "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/blogr-landing-page-main",
-    "live": "https://mooenz.github.io/portfolio-frontendmentor/tip-calculator-app-main/",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/blogr-landing-page-main/",
     "tag": "junior"
   },
   "13": {
-    "title": "Tip calculator app",
-    "image": "/img/tip-calculator-app-main.webp",
-    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/tip-calculator-app-main",
-    "live": "https://mooenz.github.io/portfolio-frontendmentor/3-column-preview-card-component-main/",
-    "tag": "junior"
-  },
-  "14": {
     "title": "Social media dashboard with theme switcher",
     "image": "/img/social-media-dashboard-with-theme-switcher.webp",
     "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/social-media-dashboard-with-theme-switcher-master",
     "live": "https://mooenz.github.io/portfolio-frontendmentor/social-media-dashboard-with-theme-switcher-master/",
+    "tag": "junior"
+  },
+  "14": {
+    "title": "Tip calculator app",
+    "image": "/img/tip-calculator-app-main.webp",
+    "repository": "https://github.com/mooenz/portfolio-frontendmentor/tree/main/tip-calculator-app-main",
+    "live": "https://mooenz.github.io/portfolio-frontendmentor/tip-calculator-app-main/",
     "tag": "junior"
   },
   "15": {
