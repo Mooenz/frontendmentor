@@ -9,7 +9,7 @@ import { FilterContext } from '../../context/FilterContext';
 //Styles
 import { Projects } from './styles';
 
-const index = () => {
+const Proyects = () => {
   const { dataFilter } = useContext(FilterContext);
   
   return (
@@ -21,4 +21,4 @@ const index = () => {
   );
 };
 
-export default index;
+export default Proyects;
