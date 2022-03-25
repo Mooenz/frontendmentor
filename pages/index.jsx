@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Projects solved form frontend mentor - Mooenz</title>
+        <title>Projects solved from Frontend Mentor - Mooenz</title>
       </Head>
 
       <UseFilter>
