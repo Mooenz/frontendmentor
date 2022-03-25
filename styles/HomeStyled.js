@@ -30,18 +30,18 @@ export const Content = styled.div`
 `;
 
 export const Title = styled.h1`
-  font-size: 5rem;
+  font-size: 4rem;
   margin-bottom: 15px;
-
+  
   @media screen and (min-width: 1024px) {
-    font-size: 4rem;
+    font-size: 5rem;
     font-weight: 800;
     text-transform: uppercase;
   }
 `;
 
 export const Strong = styled.span`
-  color: ${red};
+  color: ${green};
   text-decoration: underline;
   text-underline-offset: 2px;
 `;
@@ -55,10 +55,10 @@ export const Body = styled.p`
 export const Anchor = styled.a`
   cursor: pointer;
   font-weight: 700;
-  color: ${red};
+  color: ${green};
   transition-duration: 0.5s;
 
   &:hover {
-    color: ${green};
+    color: ${red};
   }
 `;
