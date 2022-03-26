@@ -13,6 +13,14 @@ export const Article = styled.article`
   max-width: 378px;
   margin: 0 auto;
   position: relative;
+  border: 1px solid transparent;
+  transition-duration: 0.5s;
+
+
+  &:hover {
+    border: 1px solid ${green};
+    border-radius: 11px;
+  }
 `;
 
 export const Img = styled.img`
@@ -29,7 +37,7 @@ export const Img = styled.img`
 `;
 
 export const Container = styled.section`
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -20%, ${purple} 95%);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 20%, ${purple} 95%);
   position: absolute;
   border-radius: 10px;
   color: ${beige};
@@ -40,6 +48,7 @@ export const Container = styled.section`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  transition: all 0.5s;
 `;
 
 export const Tag = styled.p`
