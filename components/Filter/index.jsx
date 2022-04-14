@@ -1,4 +1,4 @@
-import { useContext } from 'react';
+import { useState, useContext } from 'react';
 
 //Filter
 import { FilterContext } from '../../context/FilterContext';
@@ -7,9 +7,15 @@ import { FilterContext } from '../../context/FilterContext';
 import { Container, Button } from './styles';
 
 const Filter = () => {
+  // Tap active
+  const [tap, setTap] = useState('all');
+
+  // Context
   const { dataArray, setDataFilter } = useContext(FilterContext);
 
   const handelFilter = (filter) => {
+    setTap(filter);
+
     const dataArrayFilter = dataArray.filter((item) => {
       return item.tag === filter;
     });
@@ -19,13 +25,32 @@ const Filter = () => {
     }
 
     filter === 'all' && setDataFilter(dataArray);
+    
   };
 
   return (
     <Container>
-      <Button onClick={() => handelFilter('all')}>All</Button>
-      <Button onClick={() => handelFilter('newbie')}>Newbie</Button>
-      <Button onClick={() => handelFilter('junior')}>Junior</Button>
+      <Button
+        tapActive="all"
+        selectTap={tap}
+        onClick={() => handelFilter('all')}
+      >
+        All
+      </Button>
+      <Button
+        tapActive="newbie"
+        selectTap={tap}
+        onClick={() => handelFilter('newbie')}
+      >
+        Newbie
+      </Button>
+      <Button
+        tapActive="junior"
+        selectTap={tap}
+        onClick={() => handelFilter('junior')}
+      >
+        Junior
+      </Button>
     </Container>
   );
 };

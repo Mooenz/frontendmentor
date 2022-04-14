@@ -23,11 +23,14 @@ export const Button = styled.button`
   border-radius: 0.625rem;
   font-size: 1.8rem;
   cursor: pointer;
-  color: ${beige};
-  background-color: ${purple};
   box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 15px;
   border: none;
   transition-duration: 0.5s;
+  color: ${({ tapActive, selectTap }) => 
+    tapActive === selectTap ? purple : beige};
+
+  background-color: ${({ tapActive, selectTap }) =>
+    tapActive === selectTap ? red : purple};
 
   &:hover {
     color: ${purple};
