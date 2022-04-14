@@ -7,9 +7,10 @@ const Project = ({ item }) => {
 
   return (
     <a href={live} target="_blank" rel="noopener noreferrer">
-      <Article title={title} image={image}>
+      <Article image={image}>
         <Tag>{tag}</Tag>
         <h2>{title}</h2>
+        
       </Article>
     </a>
   );

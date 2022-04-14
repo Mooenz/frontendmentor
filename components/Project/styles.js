@@ -14,11 +14,10 @@ export const Article = styled.article`
   margin: 0 auto;
   position: relative;
   background: ${({ image }) => `url("${image}")  center/cover no-repeat`};
+  overflow: hidden;
 
-  &:hover {
-    h2 {
-      opacity: 1;
-    }
+  &:hover h2 {
+    opacity: 1;
   }
 
   h2 {
@@ -28,22 +27,22 @@ export const Article = styled.article`
     z-index: 1;
     margin: 20px;
     opacity: 0;
+    transition: opacity .5s;
   }
 
   &::after {
     content: '';
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, ${purple} 100%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, ${purple} 90%);
     border-radius: 0.625rem;
-    height: 0;
-    bottom: 0;
-    left: 0;
+    bottom: -100%;
     position: absolute;
-    transition-duration: 0.4s ease-in;
+    height: 100%;
     width: 100%;
+    transition-duration: .3s;
   }
 
   &:hover::after {
-    height: 100%;
+    bottom: 0;
   }
 `;
 
